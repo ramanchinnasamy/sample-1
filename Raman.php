@@ -2,7 +2,7 @@
 <?
 
 $name ="Raman...";
-break
+
 $fname  = "Chinnasamy...";
 echo $name,$fname;
 
